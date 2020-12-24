@@ -1,3 +1,0 @@
-/home/tuanth/learningToC/bai1/build/CMakeFiles/rebuild_cache.dir
-/home/tuanth/learningToC/bai1/build/CMakeFiles/edit_cache.dir
-/home/tuanth/learningToC/bai1/build/CMakeFiles/MathUtils.dir

@@ -1,1 +1,0 @@
-/usr/bin/c++    -rdynamic CMakeFiles/MathUtils.dir/MathUtils.cpp.o  -o MathUtils 
